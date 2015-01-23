@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scoreboard10()
+comment0.text=\r\n\ Scoreboard10()\ places\ stat\ labels\ on\ the\ upper\ part\ of\ the\ panel.\r\n
+comment1.params=arg
+comment1.target=void\ update(boolean)
+comment1.text=\r\n\ Updates\ the\ stat\ panel\ on\ the\ upper\ part\ of\ the\ panel.\r\n\ The\ update\ is\ dependant\ on\ the\ result\ of\ the\ correct\ guess.\r\n\ \r\n\ @param\ arg\ a\ boolean\ value\ that\ determines\ if\ the\ guess\ is\ correct\ and\r\n\ \ \ \ \ \ \ \ \ \ \ \ allows\ to\ update.\r\n
+numComments=2

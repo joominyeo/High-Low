@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Display10()
+comment0.text=\r\n\ Display10()\ constructs\ the\ display\ panel.\r\n
+comment1.params=
+comment1.target=void\ pickNext()
+comment1.text=\r\n\ stores\ the\ current\ number\ as\ last\ and\ generates\ and\ stores\r\n\ a\ new\ random\ integer\ greater\ than\ 1\ and\ less\ than\ 9,\ inclusive,\r\n\ into\ next.\ It\ also\ prevents\ the\ new\ integer\ from\ being\ the\ same\r\n\ as\ the\ previous.\r\n
+comment2.params=
+comment2.target=boolean\ guessHigh()
+comment2.text=\r\n\ The\ guessHigh()\ method\ uses\ the\ pickNext()\ method\r\n\ to\ generate\ new\ integer\ not\ equal\ to\ the\ current.\r\n\r\n@return\ boolean\ new\ integer\ greater\ than\ the\ last.\r\n
+comment3.params=
+comment3.target=boolean\ guessLow()
+comment3.text=\r\n\ The\ guessHigh()\ method\ uses\ the\ pickNext()\ method\r\n\ to\ generate\ new\ integer\ not\ equal\ to\ the\ current.\r\n\r\n@return\ boolean\ new\ integer\ smaller\ than\ the\ last.\r\n
+numComments=4
